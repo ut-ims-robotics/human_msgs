@@ -9,8 +9,8 @@ find_package(catkin REQUIRED COMPONENTS
 )
 
 add_message_files(FILES 
-	Finger.msg
-	Hand.msg
+  Finger.msg
+  Hand.msg
   Hands.msg
 )
 
